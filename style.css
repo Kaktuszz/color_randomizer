@@ -1,0 +1,18 @@
+body{
+    background-color: grey;
+}
+
+#pipa{
+    width: 300px;
+    height: 300px;
+    border: 2px solid black;
+    border-radius: 5px;
+    font-family: impact;
+}
+
+#butt{
+    background-color: #7000b177;
+    border: 1px solid black;
+    margin-top: 5px;
+    width: 300px;
+}
